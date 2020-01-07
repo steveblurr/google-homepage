@@ -1,4 +1,4 @@
-This exciting project is about dissecting a website. I will be mimicing how Google.Com looks. 
+This exciting project is about dissecting a website. I will be mimicing how Google.Com looks. December 2019. 
 
 
 Some of the skills that are demonstrated here are:
@@ -14,6 +14,8 @@ I played around with whatever I was able to find until I figured it out. However
 
 from my [footer id= "bottom-page] I removed the [display: inline-flex;] and this seemed to solve the problem.]
 *******
+
+
 
 
 
